@@ -35,7 +35,7 @@ class Task {
       _id: 'objectId',
       name: 'string',
       status: 'string',
-      createdAt: 'date',
+      // createdAt: 'date',
     },
   };
 

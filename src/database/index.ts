@@ -2,7 +2,7 @@ import Realm from 'realm';
 import schemas from './schemas';
 import Task from './Task';
 
-export const schemaVersion = 1;
+export const schemaVersion = 0;
 let app: Realm;
 const appConfig: Realm.Configuration = {
   schemaVersion,
